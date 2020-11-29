@@ -5,8 +5,10 @@ Often times when building a Drupal site I find myself using hook_form_alter to c
 
 Currently this only supports node forms, but I may expand it to support other entities in the future.
 
+Suggestions and patches welcome.
+
 **What is the difference between this module and the contrib override_node_options module?** (https://www.drupal.org/project/override_node_options)
-They do differnt things. This module overrides the title and button text, while override_node_options overrides some of the authroing and pluplishing options fields.
+They do different things. This module overrides the title and button text, while override_node_options overrides some of the authoring and pluplishing options fields.
 
 What it does
 ------------
